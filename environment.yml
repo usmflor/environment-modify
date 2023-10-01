@@ -1,4 +1,4 @@
-name: tangram-env
+name: grnComm_new
 dependencies:
   - python>=3.8.5
   - pip=20.2.2
@@ -14,3 +14,11 @@ dependencies:
     - scanpy>=1.6.0
     - scikit-learn
     - tqdm
+    - python
+    - dask
+    - distributed
+    - scipy
+    - networkx
+    - leidenalg
+    - igraph
+    - notebook
